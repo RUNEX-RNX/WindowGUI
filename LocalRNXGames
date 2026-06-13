@@ -1,9 +1,13 @@
 local Games = {
   [994732206] = "", -- Blox Fruit
   [3808081382] = "",  -- The Strongest Battlegrounds
-  [] = "", -- Steal a brainrot 
-  [9584852943] = "", -- +1 Speed Keyboard Escape
   [10200395747] = "", -- Grow A Garden 2
+  [w] = "https://raw.githubusercontent.com/RUNEX-RNX/Sab/refs/heads/main/RNXhub", -- Steal a brainrot 
+  [w] = "https://raw.githubusercontent.com/RUNEX-RNX/RandomScripts/refs/heads/main/1-Health-Per-Click", -- +1 healt per click
+  [w] = "https://raw.githubusercontent.com/RUNEX-RNX/The-strongest-battlegrounds/refs/heads/main/MainScript1.RUNEX", -- The strongest battleground 
+  [w] = "", -- 
+
+
 }
 
 return Games
