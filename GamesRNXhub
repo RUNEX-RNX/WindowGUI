@@ -2,7 +2,7 @@ local HttpGet = game.HttpGet
 local GameId: number = game.GameId
 
 local Games: {[number]: string} = loadstring(
-  HttpGet(game, "WWWWWWW")
+  HttpGet(game, "https://raw.githubusercontent.com/RUNEX-RNX/WindowGUI/refs/heads/main/LocalRNXGames)
 )() :: any
 
 local URL: string? = Games[GameId]
